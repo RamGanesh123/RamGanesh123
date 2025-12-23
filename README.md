@@ -77,7 +77,7 @@ Code → CI/CD → Cloud Infrastructure → Monitoring → AI Intelligence
 
 
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=aws, azure, gcp, docker, kubernetes, linux, git, github, python,terraform, grafana, ansible, json ,yaml, prometheus" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=aws, azure, gcp, docker, kubernetes, linux, git, github, python,terraform, grafana, ansible, prometheus" /> </p>
 
 
 ---
