@@ -26,7 +26,7 @@ from infrastructure → automation → intelligence.
 ## 🌐 End-to-End System View
 
 <p align="center">
-  <img src="assets/End-to-End System_view.jpg" width="90%" />
+  <img src="assets/End-to-End System_View.jpg" width="90%" />
 </p>
 
 **Flow:**  
