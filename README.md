@@ -26,7 +26,7 @@ from infrastructure → automation → intelligence.
 ## 🌐 End-to-End System View
 
 <p align="center">
-  <img src="assets/pipeline.png" width="90%" />
+  <img src="assets/End-to-End System_view.jpg" width="90%" />
 </p>
 
 **Flow:**  
@@ -37,7 +37,7 @@ Code → CI/CD → Cloud Infrastructure → Monitoring → AI Intelligence
 ## ☁️ Cloud Stack
 
 <p align="center">
-  <img src="assets/cloud.png" width="80%" />
+  <img src="assets/cloud_stack.jpg" width="80%" />
 </p>
 
 - AWS / Azure / GCP  
@@ -50,7 +50,7 @@ Code → CI/CD → Cloud Infrastructure → Monitoring → AI Intelligence
 ## 🚀 DevOps Stack
 
 <p align="center">
-  <img src="assets/devops.png" width="80%" />
+  <img src="assets/devops_stack.jpg" width="80%" />
 </p>
 
 - Git & GitHub  
@@ -63,7 +63,7 @@ Code → CI/CD → Cloud Infrastructure → Monitoring → AI Intelligence
 ## 🤖 AI & Automation
 
 <p align="center">
-  <img src="assets/ai.png" width="80%" />
+  <img src="assets/ai_automation.jpg" width="80%" />
 </p>
 
 - Machine Learning Basics  
