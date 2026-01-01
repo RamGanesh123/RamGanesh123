@@ -108,6 +108,7 @@ Code → CI/CD → Cloud Infrastructure → Monitoring → AI Intelligence
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RamGanesh123&label=Profile%20views&color=0e75b6&style=flat" alt="RamGanesh123" /> </p>
 
 ---
 
